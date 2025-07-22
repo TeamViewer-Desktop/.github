@@ -49,6 +49,7 @@ TeamViewer stands out as one of the most **reliable and versatile remote desktop
 *TeamViewer's clean and intuitive interface, perfect for quick and easy remote access.*
 
 ![TeamViewer File Transfer](https://teamviewer.scene7.com/is/content/teamviewergmbh/XA8XHTEJ26QL-remote-access-login?dpr=off)
+
 *Effortlessly transfer files between local and remote systems during a session.*
 
 ---
